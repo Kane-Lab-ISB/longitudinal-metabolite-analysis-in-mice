@@ -4,6 +4,8 @@ Contains all files for longitudinal metabolite analysis, including metadata, met
 
 metabolite_functions.R # functions for metabolite data analysis
 
+metabolite_names.RData # metabolite name match table
+
 discovery_cohort_data.RData # metadata and metabolite data for the discovery cohort
 
 validation_dat.RData # metadata and metabolite data for the validation cohort
