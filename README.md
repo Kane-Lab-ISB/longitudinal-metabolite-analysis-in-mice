@@ -16,3 +16,4 @@ num_fea_tuning.R # how many top features into the random forest model gives the 
 
 longitudinal_metabolite_profiling.R # code for data analysis and visualization
 
+raw&intermediate_data.RData # raw peak area data as well as intermediate processing data
